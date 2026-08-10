@@ -1,4 +1,4 @@
-
+# calculate simple interest.
 
 P=int(input('enter the principal amount: '))
 R=int(input('enter at which rate amount is given: '))
